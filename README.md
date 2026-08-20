@@ -55,7 +55,7 @@ The final analysis was presented through an interactive Looker Studio dashboard 
 to provide stakeholders with an accessible overview of sales performance, market
 composition and order-method performance. Open the **folder** **Looker Studio Dashboard photos** for easy access or click the **link below** for interactive dashboard:
 
-[View the Interactive Looker Studio Dashboard][https://datastudio.google.com/reporting/cadd642f-ea43-401f-ab55-7218611a32a4]
+[https://datastudio.google.com/reporting/cadd642f-ea43-401f-ab55-7218611a32a4]
 
 ## Data Availability
 
@@ -69,7 +69,7 @@ The underlying GoOutside case-study dataset is publicly available, and the SQL l
 
 ### SQL Queries
 
-The SQL queries used for data exploration, transformation and analysis were developed directly in BigQuery. Since the original BigQuery environment is no longer accessible due to the Sandbox retention period, the relevant SQL queries are provided in this repository for transparency and reproducibility.
+The SQL queries used for data exploration, transformation and analysis were developed directly in BigQuery. Since the original BigQuery environment is no longer accessible due to the Sandbox retention period, the relevant SQL queries are provided in this repository for transparency and reproducibility (see attached **Used SQL Queries in BigQuery.pdf**).
 
 ---
 # Data Analytics Workflow
