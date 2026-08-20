@@ -49,7 +49,7 @@ The analysis therefore examined:
 The goal was to provide a data-driven basis for decisions regarding the future of different order channels.
 
 ---
-## Dashboard Preview
+## Dashboard Interactive Preview
 
 The final analysis was presented through an interactive Looker Studio dashboard designed
 to provide stakeholders with an accessible overview of sales performance, market
