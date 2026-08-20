@@ -53,12 +53,7 @@ The goal was to provide a data-driven basis for decisions regarding the future o
 
 The final analysis was presented through an interactive Looker Studio dashboard designed
 to provide stakeholders with an accessible overview of sales performance, market
-composition and order-method performance.
-
-![GoOutside Dashboard 1. Retail Market Analysis](<img width="1455" height="1079" alt="image" src="https://github.com/user-attachments/assets/221fb890-2e8d-4c7b-aad9-f45201c2d3c2" />)
-![GoOutside Dashboard 2. Order Method Analysis](<img width="1448" height="1079" alt="image" src="https://github.com/user-attachments/assets/30309a32-1a95-4768-b61a-ffb5e025f1d9" />)
-
-### Interactive Dashboard
+composition and order-method performance. Open the **folder** **Looker Studio Dashboard photos** for easy access or click the **link below** for interactive dashboard:
 
 [View the Interactive Looker Studio Dashboard][https://datastudio.google.com/reporting/cadd642f-ea43-401f-ab55-7218611a32a4]
 
